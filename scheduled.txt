@@ -1,0 +1,21 @@
+Complete Schedule and Time is mentioned
+
+Here FCFS concept is used
+
+The query had 3 processes to handle:- 
+
+
+Processes      Arrival Time     Burst Time      Comepletion Time     TurnAround Time      Waiting Time
+
+P1                  0               5               5                     0                     5                   
+
+P2                  2               3               8                     3                     6                   
+
+P3                  4               1               9                     4                     5                   
+
+
+
+Avg waiting time :    2.33333 Seconds
+
+Avg turnAround time : 5.33333 Seconds
+
